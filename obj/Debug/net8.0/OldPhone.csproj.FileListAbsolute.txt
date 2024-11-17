@@ -1,0 +1,14 @@
+C:\Users\usuario\OldPhone\bin\Debug\net8.0\OldPhone.exe
+C:\Users\usuario\OldPhone\bin\Debug\net8.0\OldPhone.deps.json
+C:\Users\usuario\OldPhone\bin\Debug\net8.0\OldPhone.runtimeconfig.json
+C:\Users\usuario\OldPhone\bin\Debug\net8.0\OldPhone.dll
+C:\Users\usuario\OldPhone\bin\Debug\net8.0\OldPhone.pdb
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\OldPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\OldPhone.AssemblyInfoInputs.cache
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\OldPhone.AssemblyInfo.cs
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\OldPhone.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\OldPhone.dll
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\refint\OldPhone.dll
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\OldPhone.pdb
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\OldPhone.genruntimeconfig.cache
+C:\Users\usuario\OldPhone\obj\Debug\net8.0\ref\OldPhone.dll
